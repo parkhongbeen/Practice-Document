@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'manytomany',
     'myapp.apps.MyappConfig',
+    'django_extensions',
 ]
 
 MIDDLEWARE = [
