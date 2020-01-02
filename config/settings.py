@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'manytomany',
+
+    'many_to_many.apps.ManyToManyConfig',
     'myapp.apps.MyappConfig',
     'django_extensions',
     'many_to_one.apps.ManyToOneConfig',

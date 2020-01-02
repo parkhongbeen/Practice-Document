@@ -10,7 +10,7 @@ class Topping(models.Model):
 
 class Pizza(models.Model):
     name = models.CharField(max_length=30)
-    toppings = models.ManyToManyField(Topping)
+    topping = models.ManyToManyField(Topping)
 
     def __str__(self):
         return self.name
