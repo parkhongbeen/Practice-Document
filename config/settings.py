@@ -38,11 +38,13 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-    'one_to_one.apps.OneToOneConfig',
+    # 'one_to_one.apps.OneToOneConfig',
     'many_to_many.apps.ManyToManyConfig',
     'myapp.apps.MyappConfig',
     'django_extensions',
     'many_to_one.apps.ManyToOneConfig',
+    'inheritance.abstract.apps.AbstractConfig',
+    'inheritance.multitable.apps.MultitableConfig',
 ]
 
 MIDDLEWARE = [

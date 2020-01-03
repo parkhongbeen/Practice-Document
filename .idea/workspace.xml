@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0688266-fae1-4d3e-bd46-03c8981312aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/inheritance/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/one_to_one/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/one_to_one/models.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +60,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="331" y="187" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578037347622">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="331" y="187" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.709/1280.23.1920.1057@0.23.1280.709" timestamp="1578037347622" />
     <state x="162" y="23" width="997" height="709" key="SettingsEditor" timestamp="1577778780680">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
     <state x="162" y="23" width="997" height="709" key="SettingsEditor/0.23.1280.709@0.23.1280.709" timestamp="1577778780680" />
-    <state x="326" y="56" width="670" height="676" key="search.everywhere.popup" timestamp="1577778756036">
+    <state x="317" y="210" key="com.intellij.ide.util.TipDialog" timestamp="1578044839320">
       <screen x="0" y="23" width="1280" height="709" />
     </state>
+    <state x="317" y="210" key="com.intellij.ide.util.TipDialog/0.23.1280.709/1280.23.1920.1057@0.23.1280.709" timestamp="1578044839320" />
+    <state x="326" y="56" width="670" height="676" key="search.everywhere.popup" timestamp="1578037007105">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="326" y="56" width="670" height="676" key="search.everywhere.popup/0.23.1280.709/1280.23.1920.1057@0.23.1280.709" timestamp="1578037007105" />
     <state x="326" y="56" width="670" height="676" key="search.everywhere.popup/0.23.1280.709@0.23.1280.709" timestamp="1577778756036" />
   </component>
 </project>
