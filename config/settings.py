@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
+    'one_to_one.apps.OneToOneConfig',
     'many_to_many.apps.ManyToManyConfig',
     'myapp.apps.MyappConfig',
     'django_extensions',

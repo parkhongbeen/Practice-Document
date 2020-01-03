@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0688266-fae1-4d3e-bd46-03c8981312aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/many_to_many/models/m2m_04_recursive_extra_fields.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/many_to_many/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/many_to_many/models/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/many_to_many/models/m2m_03_extra.py" beforeDir="false" afterPath="$PROJECT_DIR$/many_to_many/models/m2m_03_extra_fields.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
