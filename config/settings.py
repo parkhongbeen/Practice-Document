@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'many_to_one.apps.ManyToOneConfig',
     'inheritance.abstract.apps.AbstractConfig',
     'inheritance.multitable.apps.MultitableConfig',
+    'inheritance.proxy.apps.ProxyConfig',
 ]
 
 MIDDLEWARE = [
